@@ -1,4 +1,4 @@
-# COnfeitaria Caseira
+# Confeitaria Caseira
 
 Primeiro projeto feito para teste e prática, para uma Confeiteira
 
